@@ -1,0 +1,33 @@
+body {
+    background: rgba(100, 144, 235, 0.3);
+    color: #8b837a;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-image: url("https://oir.mobi/uploads/posts/2021-01/1611951971_38-p-krasivii-prozrachnii-fon-42.png");
+    background-position: right;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+}
+
+.hobby {
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+    height: 506px;
+
+}
+
+.content {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}    
+
+.hobby_text {
+    text-align: center;
+}
+ 
+    
